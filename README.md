@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 ```
   ██████╗ ███████╗███████╗██╗  ██╗   ██╗   ██╗ █████╗ ██╗   ██╗██╗  ████████╗
@@ -48,7 +48,7 @@ geek-vault-template/
 ├── 03 - 待办事项/          # 📌 GTD task pool, top priorities & agile kanban
 ├── 04 - 周期复盘/          # 📅 Daily work logs, weekly retrospectives & monthly OKRs
 ├── 05 - 收件箱/            # 📥 Autonomous tech radar captures & raw notes
-├── 06 - 知识卡片/          # 🗃️ Zettelkasten atomic notes & mental models
+├── 06 - 知识图谱/          # 🕸️ MOC topology & bi-directional links: atomic graph nodes & mental models
 ├── 07 - 手册资料/          # 🧰 CheatSheets, API references & book deep-dives
 ├── 08 - 深度专题/          # 📐 Research topics, experiments & deep investigations
 └── Templates/              # 🌟 12 standardized, battle-tested Markdown templates
@@ -66,12 +66,25 @@ geek-vault-template/
 | **`LLM Training`** | Model fine-tuning parameters, dataset cleaning, loss tracking & eval |
 | **`AI Agent`** | Planner, memory layer, tool execution, MCP schema & multi-agent topology |
 | **`Paper Reading`** | Breakthrough mechanisms, algorithmic flows, experiments & takeaways |
-| **`Zettel Note`** | Atomic concept note, bi-directional linking & essence extraction |
+| **`Knowledge Graph Node`**| MOC hub & atomic concept node, bi-directional linking & essence extraction |
 | **`Project`** | PRD goals, technical decisions, milestones & delivery review |
 | **`Tech Meeting`** | Design review background, debate points, resolutions & action items |
 | **`Daily Todo`** | Lightweight daily GTD checklist |
 | **`Monthly Kanban`** | Monthly OKRs, stage deliverables & kanban board |
 | **`Weekly Review`** | Highlights, sprint retrospective, blockers & next week agenda |
+
+---
+
+## 🕸️ Knowledge Graph & Graph View Exploration
+
+This vault features a full-mesh bi-directional topological architecture under `06 - 知识图谱/`:
+* **Master Hub (Master MOC)**: `06.00 - 核心知识图谱全局中枢`, the gravitational center of your second brain;
+* **Domain Clusters (Domain MOC)**:
+  - `06.10 - 人工智能与智能体图谱 (AI & Agent MOC)`
+  - `06.20 - 系统架构与分布式图谱 (Architecture MOC)`
+  - `06.30 - 算法与认知思维模型 (Mental Models MOC)`
+* **Pre-wired Concept Nodes**: Ready-to-use linked nodes including `Agent Harness`, `ReAct`, `MCP`, `Distributed Idempotent Lock`, `Modern Network Routing`, and `Zettelkasten`.
+* **Instant Activation**: Press `Ctrl + G` (macOS: `Cmd + G`) in Obsidian to reveal the force-directed constellation of your knowledge universe!
 
 ---
 
