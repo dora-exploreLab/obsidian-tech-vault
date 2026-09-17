@@ -1,0 +1,14 @@
+﻿# Obsidian workspace & cache
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/indexed*
+
+# OS specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*~

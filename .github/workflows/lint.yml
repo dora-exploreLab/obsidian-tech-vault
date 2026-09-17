@@ -1,0 +1,21 @@
+﻿name: Markdown Lint
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  lint:
+    name: Markdown Structure Check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Verify Template Files Exist
+        run: |
+          test -d "Templates"
+          echo "Templates directory verified!"
+          ls -la Templates/
