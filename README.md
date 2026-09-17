@@ -75,6 +75,39 @@ obsidian-tech-vault/
 
 ---
 
+## 🏛️ Theoretical Foundations: Why It's Built This Way
+
+Most PKM templates degrade into abandoned "digital graveyards" because they are merely rigid folders **lacking the backing of proven cognitive science and modern project management frameworks**.
+
+`Obsidian-Tech-Vault` weaves **7 time-tested intellectual systems** into the bedrock of its 10-tier architecture:
+
+| Pioneer / School of Thought | Core Philosophy | Vault Architectural Mapping | Superpower |
+| :--- | :--- | :--- | :--- |
+| **Simon Sinek** (Management Thinker) | **Golden Circle (`Start with WHY`)** | `00 - 个人说明` | Define your long-term mission and competitive moats before choosing tech stacks |
+| **Tiago Forte** (Father of Second Brain) | **CODE Pipeline & PARA Framework** | `01 项目` / `05 收件箱` | Notes must serve actionable output (`Capture ➡️ Distill ➡️ Express`) |
+| **Dreyfus Brothers & Ericsson** | **Dreyfus Skill Acquisition Model** | `02 - 学习规划` | Milestone-based deliberate practice, eliminating low-level repetitive tutorials |
+| **David Allen** (Father of Time Management)| **GTD (Getting Things Done)** | `03 - 待办事项` | "Your mind is for having ideas, not holding them." Mind-like-water task capture |
+| **Ken Schwaber & Jeff Sutherland** | **Agile Scrum Sprint Retrospective** | `04 - 周期复盘` | Replace verbose journals with structured retros: *What went well / Blockers / Action items* |
+| **Niklas Luhmann** (German Sociologist) | **Zettelkasten Atomic Graph** | `06 - 知识图谱` | Atomic notes + bidirectional links allow ideas to self-organize bottom-up via MOCs |
+| **Cal Newport** (Cognitive Scientist / CS Prof)| **Deep Work & Time-Blocking** | `08 - 深度专题` | High signal-to-noise sanctuary free from distraction for deep architectural design |
+| **Richard Feynman** (Nobel Laureate Physicist) | **Feynman Technique (`ELIF`)** | `模板-07 知识图谱节点`| Explain concepts like you're talking to a 5-year-old, stripping away jargon to grasp essence |
+
+---
+
+## 🛡️ Anti-Abandonment: The Low-Friction Daily Loop
+
+A common reason people abandon their vaults is maintenance fatigue. This template introduces a **tiered, low-friction flow**:
+
+* **🟢 Daily Flow (3 mins/day)**:
+  - Open `04 - 周期复盘/Daily/` and list your **Top 3 Frogs** for the day.
+  - External tech trends are autonomously captured by [`tech-radar-agent`](https://github.com/dora-exploreLab/tech-radar-agent) into `05 - 收件箱/` with zero manual effort.
+* **🟡 Weekly Agile Sprint (15 mins/week)**:
+  - Run `Template-12-Weekly Review`, check off delivered battles, and set actionable improvements for the upcoming sprint.
+* **🟣 On-Demand Emergence (When Inspiration Strikes)**:
+  - Spin up `Template-07-Knowledge Graph Node`, distill concepts using the Feynman ELIF prompt, and press `Ctrl + G` (`Cmd + G`) to watch your knowledge constellation expand in real-time.
+
+---
+
 ## 🕸️ Knowledge Graph & Graph View Exploration
 
 This vault features a full-mesh bi-directional topological architecture under `06 - 知识图谱/`:
