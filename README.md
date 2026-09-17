@@ -1,33 +1,33 @@
 <div align="center">
 
 ```
-  ██████╗ ███████╗███████╗██╗  ██╗   ██╗   ██╗ █████╗ ██╗   ██╗██╗  ████████╗
- ██╔════╝ ██╔════╝██╔════╝██║ ██╔╝   ██║   ██║██╔══██╗██║   ██║██║  ╚══██╔══╝
- ██║  ███╗█████╗  █████╗  █████╔╝    ██║   ██║███████║██║   ██║██║     ██║   
- ██║   ██║██╔══╝  ██╔══╝  ██╔═██╗    ╚██╗ ██╔╝██╔══██║██║   ██║██║     ██║   
- ╚██████╔╝███████╗███████╗██║  ██╗    ╚████╔╝ ██║  ██║╚██████╔╝███████╗██║   
-  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝     ╚═══╝  ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝   
+  ████████╗███████╗ ██████╗██╗  ██╗    ██╗   ██╗ █████╗ ██╗   ██╗██╗  ████████╗
+  ╚══██╔══╝██╔════╝██╔════╝██║  ██║    ██║   ██║██╔══██╗██║   ██║██║  ╚══██╔══╝
+     ██║   █████╗  ██║     ███████║    ██║   ██║███████║██║   ██║██║     ██║   
+     ██║   ██╔══╝  ██║     ██╔══██║    ╚██╗ ██╔╝██╔══██║██║   ██║██║     ██║   
+     ██║   ███████╗╚██████╗██║  ██║     ╚████╔╝ ██║  ██║╚██████╔╝███████╗██║   
+     ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝      ╚═══╝  ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝   
 ```
 
-# 🧠 Geek-Vault-Template
+# 🧠 Obsidian-Tech-Vault
 
-> ⚡ **A turnkey, battle-tested Obsidian starter vault template tailored for software engineers, AI researchers, and life-long learners.**  
-> Built with a 10-tier Johnny Decimal + PARA architecture, 12 production-ready Markdown templates, and native integration with autonomous AI agents.
+> ⚡ **A turnkey, battle-tested Obsidian starter vault template tailored for software engineers, AI/Agent developers, and technical researchers.**  
+> Built with a 10-tier Johnny Decimal + PARA architecture, 12 production-ready Markdown templates, full-mesh MOC knowledge graph, and native integration with autonomous AI agents.
 
 **English** | [简体中文](README_CN.md)
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-dora--exploreLab%2Fgeek--vault--template-blue?logo=github)](https://github.com/dora-exploreLab/geek-vault-template)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-dora--exploreLab%2Fobsidian--tech--vault-blue?logo=github)](https://github.com/dora-exploreLab/obsidian-tech-vault)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/dora-exploreLab/geek-vault-template/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/dora-exploreLab/obsidian-tech-vault/pulls)
 
 </div>
 
 ---
 
-## 🌟 Why Geek-Vault-Template?
+## 🌟 Why Obsidian-Tech-Vault?
 
 Most developers struggle with Obsidian because an empty vault offers zero structure.  
-**Geek-Vault-Template** is distilled from real-world engineering and AI research workflows:
+**Obsidian-Tech-Vault** is distilled from real-world engineering and AI research workflows:
 
 1. **Structured 10-tier Decimal Taxonomy**:
    - Combines the clarity of **Johnny Decimal** numbering with the agility of **PARA** (Projects, Areas, Resources, Archives), preventing deep folder sprawl.
@@ -41,7 +41,7 @@ Most developers struggle with Obsidian because an empty vault offers zero struct
 ## 🗂️ Vault Directory Architecture
 
 ```text
-geek-vault-template/
+obsidian-tech-vault/
 ├── 00 - 个人说明/          # 👤 Developer technical persona & vault maintenance guide
 ├── 01 - 项目介绍/          # 🚀 Engineering architectures, tech specs & deliverables
 ├── 02 - 学习规划/          # 📚 Long-term technical roadmaps & skill mastery plans
@@ -97,7 +97,7 @@ This vault features a full-mesh bi-directional topological architecture under `0
 
 ### Method 2: Git Clone
 ```bash
-git clone https://github.com/dora-exploreLab/geek-vault-template.git my-vault
+git clone https://github.com/dora-exploreLab/obsidian-tech-vault.git my-vault
 ```
 
 ---

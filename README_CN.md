@@ -1,30 +1,30 @@
 <div align="center">
 
 ```
-  ██████╗ ███████╗███████╗██╗  ██╗   ██╗   ██╗ █████╗ ██╗   ██╗██╗  ████████╗
- ██╔════╝ ██╔════╝██╔════╝██║ ██╔╝   ██║   ██║██╔══██╗██║   ██║██║  ╚══██╔══╝
- ██║  ███╗█████╗  █████╗  █████╔╝    ██║   ██║███████║██║   ██║██║     ██║   
- ██║   ██║██╔══╝  ██╔══╝  ██╔═██╗    ╚██╗ ██╔╝██╔══██║██║   ██║██║     ██║   
- ╚██████╔╝███████╗███████╗██║  ██╗    ╚████╔╝ ██║  ██║╚██████╔╝███████╗██║   
-  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝     ╚═══╝  ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝   
+  ████████╗███████╗ ██████╗██╗  ██╗    ██╗   ██╗ █████╗ ██╗   ██╗██╗  ████████╗
+  ╚══██╔══╝██╔════╝██╔════╝██║  ██║    ██║   ██║██╔══██╗██║   ██║██║  ╚══██╔══╝
+     ██║   █████╗  ██║     ███████║    ██║   ██║███████║██║   ██║██║     ██║   
+     ██║   ██╔══╝  ██║     ██╔══██║    ╚██╗ ██╔╝██╔══██║██║   ██║██║     ██║   
+     ██║   ███████╗╚██████╗██║  ██║     ╚████╔╝ ██║  ██║╚██████╔╝███████╗██║   
+     ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝      ╚═══╝  ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝   
 ```
 
-# 🧠 Geek-Vault-Template (面向极客的现代 Obsidian 知识库模板)
+# 🧠 Obsidian-Tech-Vault (面向技术人员的现代 Obsidian 知识库模板)
 
-> ⚡ **专为全栈工程师、AI 研究员与终身学习者打造的开箱即用 Obsidian 知识库脚手架**  
-> 融合 Johnny Decimal 十进制分类法、PARA 敏捷流与 12 套生产级 Markdown 模板，原生适配自动化智能体生态。
+> ⚡ **专为软件工程师、AI/Agent 开发者、算法架构师与技术研究者打造的专业第二大脑**  
+> 融合 Johnny Decimal 十进制分类法、PARA 敏捷流与 12 套生产级 Markdown 模板，内建立体 MOC 知识图谱，原生适配自动化智能体生态。
 
 [English](README.md) | **简体中文**
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-dora--exploreLab%2Fgeek--vault--template-blue?logo=github)](https://github.com/dora-exploreLab/geek-vault-template)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-dora--exploreLab%2Fobsidian--tech--vault-blue?logo=github)](https://github.com/dora-exploreLab/obsidian-tech-vault)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/dora-exploreLab/geek-vault-template/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/dora-exploreLab/obsidian-tech-vault/pulls)
 
 </div>
 
 ---
 
-## 🌟 为什么选择 Geek-Vault-Template？
+## 🌟 为什么选择 Obsidian-Tech-Vault？
 
 大多数开发者在使用 Obsidian 时，都会面临“面对空白文件夹无从下手”的困境。  
 本模板提炼自高级工程师与 AI 架构师的真实知识管理实践，具备以下核心特性：
@@ -41,7 +41,7 @@
 ## 🗂️ 知识库十级目录架构全景
 
 ```text
-geek-vault-template/
+obsidian-tech-vault/
 ├── 00 - 个人说明/          # 👤 开发者技术画像、技能矩阵与知识库维护手册
 ├── 01 - 项目介绍/          # 🚀 业务工程架构、技术选型与交付物清单
 ├── 02 - 学习规划/          # 📚 长期技术演进路线图、深度攻坚主题与课程打卡
@@ -97,7 +97,7 @@ geek-vault-template/
 
 ### 方式二：Git 本地克隆
 ```bash
-git clone https://github.com/dora-exploreLab/geek-vault-template.git my-vault
+git clone https://github.com/dora-exploreLab/obsidian-tech-vault.git my-vault
 ```
 
 ---
