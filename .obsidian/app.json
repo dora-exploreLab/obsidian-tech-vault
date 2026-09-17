@@ -1,0 +1,12 @@
+{
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current",
+  "newFileFolderPath": "",
+  "useMarkdownLinks": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "showLineNumber": true,
+  "readableLineLength": true,
+  "foldHeading": true,
+  "foldIndent": true
+}

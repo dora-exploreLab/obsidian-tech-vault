@@ -21,6 +21,10 @@
 [![Co-developed with AGY](https://img.shields.io/badge/Co--developed%20with-AGY%20Agent-8A2BE2?logo=robotframework&logoColor=white)](https://github.com/dora-exploreLab)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/dora-exploreLab/obsidian-tech-vault/pulls)
 
+<br/>
+
+![Obsidian Tech Vault Knowledge Graph](assets/hero-graph.png)
+
 </div>
 
 ---
