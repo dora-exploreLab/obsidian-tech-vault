@@ -18,6 +18,7 @@
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-dora--exploreLab%2Fobsidian--tech--vault-blue?logo=github)](https://github.com/dora-exploreLab/obsidian-tech-vault)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Co-developed with AGY](https://img.shields.io/badge/Co--developed%20with-AGY%20Agent-8A2BE2?logo=robotframework&logoColor=white)](https://github.com/dora-exploreLab)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/dora-exploreLab/obsidian-tech-vault/pulls)
 
 </div>
@@ -150,6 +151,15 @@ To maximize your workflow efficiency, install these popular community plugins:
 Pair this vault with our open-source [**`tech-radar-agent`**](https://github.com/dora-exploreLab/tech-radar-agent):
 * Runs daily autonomously to capture trending GitHub repos, top ArXiv AI papers, and engineering blogs;
 * Structures the intelligence and saves it directly into **`05 - 收件箱/`**, while checking off your daily todo item!
+
+---
+
+## 👥 Authors & Contributors
+
+* 🧑‍💻 **[dorabighead](https://github.com/dorabighead)** (Lead Architect & Maintainer)
+  - Architectural leadership, PKM system design, domain mental model extraction, and repository stewardship.
+* 🤖 **[AGY (Antigravity Agent)](https://github.com/dora-exploreLab)** (Autonomous AI Co-Developer)
+  - Deep integration of 7 foundational cognitive and agile frameworks, full-mesh MOC knowledge graph engineering, and anti-abandonment flow design.
 
 ---
 

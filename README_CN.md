@@ -18,6 +18,7 @@
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-dora--exploreLab%2Fobsidian--tech--vault-blue?logo=github)](https://github.com/dora-exploreLab/obsidian-tech-vault)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Co-developed with AGY](https://img.shields.io/badge/Co--developed%20with-AGY%20Agent-8A2BE2?logo=robotframework&logoColor=white)](https://github.com/dora-exploreLab)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/dora-exploreLab/obsidian-tech-vault/pulls)
 
 </div>
@@ -153,6 +154,15 @@ git clone https://github.com/dora-exploreLab/obsidian-tech-vault.git my-vault
 搭配我们开源的 **[`tech-radar-agent`](https://github.com/dora-exploreLab/tech-radar-agent)**：
 * 每日凌晨全自动爬取 GitHub Trending、ArXiv 论文和大厂技术博客；
 * 深度提炼后直接落盘至本仓库的 **`05 - 收件箱/`**，并在待办清单中自动打勾，打造真正自运转的第二大脑！
+
+---
+
+## 👥 核心作者与共建团队 (Authors & Contributors)
+
+* 🧑‍💻 **[dorabighead](https://github.com/dorabighead)** (Lead Architect & Maintainer)
+  - 架构总览、个人知识管理体系顶层设计、领域思维模型萃取与开源生态主理。
+* 🤖 **[AGY (Antigravity Agent)](https://github.com/dora-exploreLab)** (Autonomous AI Co-Developer)
+  - 7 大经典社会科学与敏捷项目管理方法论深度融入、MOC 拓扑知识图谱立体化工程构建、防弃坑低摩擦心流体系设计。
 
 ---
 
